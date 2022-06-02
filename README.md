@@ -77,7 +77,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Run
 There 2 versions of the server. First one is server.py, use this to accept only one connection at a time. Second one is multithreaded_server.py, it uses threading library to support more than one transfer. Run one the files above to run server and you can make requrest. To test you can use client.py to transfer files. Before running client.py make sure you ran server and port 5566 is open. If you did steps above correct you will results like this:
-https://github.com/MirjahonMirsaidov/file_transfer_using_tcp/issues/1#issue-1257909878
-https://github.com/MirjahonMirsaidov/file_transfer_using_tcp/issues/2#issue-1257911545
+![alt text](https://user-images.githubusercontent.com/60573267/171596484-91b49b36-f785-4c2a-a568-c35ab04f2885.png)
+![alt text](https://user-images.githubusercontent.com/60573267/171596732-b8d72b54-11f3-4049-a8f1-d0d786e925a8.png)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
